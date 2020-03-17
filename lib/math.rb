@@ -4,7 +4,7 @@ end
 
 def subtraction(num1, num2)
   difference = num1 - num2
-  puts difference
+  return difference
 end
 
 def division(num1, num2)
